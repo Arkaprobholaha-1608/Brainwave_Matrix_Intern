@@ -1,0 +1,3 @@
+input_text,output,flag,username,timestamp
+Bin Laden was killed.,The news is likely fake with a confidence of 0.89,,,2024-07-15 18:47:01.280655
+Mohammed Bin has been killed by US SEALS.,The news is likely real with a confidence of 0.96,,,2024-07-15 19:06:54.386842

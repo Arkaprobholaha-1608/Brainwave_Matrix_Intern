@@ -1,0 +1,4 @@
+pandas
+gradio
+nltk
+scikit-learn
